@@ -50,7 +50,7 @@ Sunyeop Kim, Insung Kim, **Dongjae Lee**, Deukjo Hong, Jaechul Sung, Seokhie Hon
 
 ## Awards
 
-Year | Award 
+Year | Content 
 -----|-------
 2024 | 국가암호공모전 장려상
 2024 | 한국정보보호학회 동계 학술대회 우수논문상(정보보호학회장상)
@@ -58,7 +58,7 @@ Year | Award
 2023 | 국가암호공모전 우수상상
 
 ## Committee
-2025 ICISC Program Chair
-정보보호학회 이사 (2025.1.1.~)
-2024 ICISC Program Committee / Session Chair
-2024 한국디지털포렌식학회 하계 학술대회 Session Chair
+2025 ICISC Program Chair \\
+정보보호학회 이사 (2025.1.1.~) \\
+2024 ICISC Program Committee / Session Chair \\
+2024 한국디지털포렌식학회 하계 학술대회 Session Chair \\

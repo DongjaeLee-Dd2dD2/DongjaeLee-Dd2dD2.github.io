@@ -7,6 +7,10 @@ markdown: kramdown
 
 tracking_id: #
 
+footer: yes
+footer_url: "https://scholar.google.com/citations?hl=ko&user=Mr5AIPsAAAAJ"
+footer_text: "Google Scholar"
+
 sass:
     style: compressed
     sass_dir: _sass
