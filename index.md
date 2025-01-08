@@ -43,7 +43,7 @@ AES 기반 AEAD 스킴의 키 커밋 공격 복잡도 계산 (Complexity Analysi
 Sunyeop Kim, Myoungsu Shin, Seonkyu Kim, Hanbeom Shin, Insung Kim, Donggeun Kwon, **Dongjae Lee**, Seonggyeom Kim, Deukjo Hong, Jaechul Sung, and Seokhie Hong  
 
 <span style="color:crimson"> Improved Quantum Rebound Attacks on Double Block Length Hashing with Round-Reduced AES-256 and ARIA-256 </span>  
-*IACR Transactions on Symmetric Cryptology, 2024*
+*IACR Transactions on Symmetric Cryptology, 2024*  
 **Dongjae Lee** and Seokhie Hong  
 
 <span style="color:crimson"> Accurate False-Positive Probability of Multiset-Based Demirci-Selçuk Meet-in-the-Middle Attacks </span>  
@@ -57,8 +57,8 @@ PIPO에 대한 차분 및 차분 중간일치 공격 (Differential and Different
 김인성, 신한범, 김선엽, 권동근, 신명수, **이동재**, 김성겸, 홍득조, 성재철, 홍석희  
 
 <span style="color:crimson"> A Practical Ciphertext-Only Attack on GMR-2 System </span>  
+*IEEE Access, 2023*  
 **Dongjae Lee**, Jaewoo Kim, Deukjo Hong, Jaechul Sung, and Seokhie Hong  
-*IEEE Access, 2023*
 
 ### 2021
 
@@ -69,15 +69,14 @@ PIPO에 대한 차분 및 차분 중간일치 공격 (Differential and Different
 ### 2019
 
 실시간 사이버 위협 지능형 분석 및 예측 기술 (Real-time Cyber Threat Intelligent Analysis and Prediction Technique)  
+*정보과학회 컴퓨팅의 실제 논문지, 2019*  
 임창완, 신영섭, **이동재**, 조성영, 한인성, 오행록  
-*정보과학회 컴퓨팅의 실제 논문지, 2019*
 
 ### 2018
 
 실시간 사이버 위협 정보 지능형 분석 및 예측 기술 제안 (A study of real-time cyber threat intelligent analysis and prediction technique)  
+*한국정보과학회 2018 한국소프트웨어종합학술대회 논문집*  
 임창완, 신영섭, **이동재**, 조성영, 한인성, 오행록  
-*한국정보과학회 2018 한국소프트웨어종합학술대회 논문집*
-
 
 ---
 
