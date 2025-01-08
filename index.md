@@ -38,15 +38,15 @@ Symmetric Cryptology and Quantum Cryptanalysis
 김선규, 신명수, 신한범, 김인성, 김선엽, 권동근, 석병진, **이동재**, 홍득조, 성재철, 홍석희  
 *한국정보보호학회 동계학술대회 (CISC-W'24)*
 
-<span style="color:seagreen"> Redefining Security in Shadow Cipher for IoT Nodes: New Full-Round Practical Distinguisher and the Infeasibility of Key-Recovery Attacks </span> <br>
+<span style="color:seagreen"> "Redefining Security in Shadow Cipher for IoT Nodes: New Full-Round Practical Distinguisher and the Infeasibility of Key-Recovery Attacks </span> <br>
 Sunyeop Kim, Myoungsu Shin, Seonkyu Kim, Hanbeom Shin, Insung Kim, Donggeun Kwon, **Dongjae Lee**, Seonggyeom Kim, Deukjo Hong, Jaechul Sung, and Seokhie Hong  
 *IEEE Internet of Things Journal, 2024*
 
-- Improved Quantum Rebound Attacks on Double Block Length Hashing with Round-Reduced AES-256 and ARIA-256 \\
+<span style="color:marron"> "Improved Quantum Rebound Attacks on Double Block Length Hashing with Round-Reduced AES-256 and ARIA-256 </span> <br>
 **Dongjae Lee** and Seokhie Hong  
 *IACR Transactions on Symmetric Cryptology, 2024*
 
-- Accurate False-Positive Probability of Multiset-Based Demirci-Selçuk Meet-in-the-Middle Attacks \\
+<span style="color:blue"> "Accurate False-Positive Probability of Multiset-Based Demirci-Selçuk Meet-in-the-Middle Attacks \\
 **Dongjae Lee**, Deukjo Hong, Jaechul Sung, and Seokhie Hong  
 *IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences, 2024*
 
