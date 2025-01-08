@@ -101,4 +101,4 @@ Year | Content
 2025 ICISC Program Chair \\
 정보보호학회 이사 (2025.1.1.~) \\
 2024 ICISC Program Committee / Session Chair \\
-2024 한국디지털포렌식학회 하계 학술대회 Session Chair \\
+2024 한국디지털포렌식학회 하계 학술대회 Session Chair
