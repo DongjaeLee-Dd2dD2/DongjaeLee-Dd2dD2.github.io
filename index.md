@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="face.jpg">
 
 Hi! I am Dongjae Lee
 
@@ -14,7 +14,7 @@ Symmetric Cryptology and Quantum Cryptanalysis
 
 ## Publications
 
-6. Redefining Security in Shadow Cipher for IoT Nodes: New Full-Round Practical Distinguisher and the Infeasibility of Key-Recovery Attacks \\
+### 6. Redefining Security in Shadow Cipher for IoT Nodes: New Full-Round Practical Distinguisher and the Infeasibility of Key-Recovery Attacks ###
 Sunyeop Kim, Myoungsu Shin, Seonkyu Kim, Hanbeom Shin, Insung Kim, Donggeun Kwon, **Dongjae Lee**, Seonggyeom Kim, Deukjo Hong, Jaechul Sung, Seokhie Hong  
 *IEEE Internet of Things Journal, Early Access*
 
@@ -38,11 +38,7 @@ Sunyeop Kim, Insung Kim, **Dongjae Lee**, Deukjo Hong, Jaechul Sung, Seokhie Hon
 **Dongjae Lee**, Deukjo Hong, Jaechul Sung, Seonggyeom Kim, Seokhie Hong  
 *IEEE Access, 2021*
 
-## Typography
-
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
+## Awards
 
 Year | Award | Category
 -----|-------|--------
