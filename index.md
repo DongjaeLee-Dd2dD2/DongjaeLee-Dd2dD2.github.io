@@ -52,8 +52,8 @@ Sunyeop Kim, Insung Kim, **Dongjae Lee**, Deukjo Hong, Jaechul Sung, Seokhie Hon
 
 ## Awards
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+Year | Award 
+-----|-------
+2024 | 국가암호공모전 장려상
+2024 | 한국정보보호학회 동계 학술대회 우수논문상(정보보호학회장상)
+2024 | 한국정보보호학회 동계 학술대회 우수논문상(한국인터넷진흥원 원장상)
