@@ -20,20 +20,20 @@ Symmetric Cryptology and Quantum Cryptanalysis
 
 ### 2024
 
-- Byte-wise equal property of the ARADI cipher \\
+- "ARADI 암호의 바이트 동일 특성 (Byte-wise equal property of the ARADI cipher)" \\
 김선엽, 김선규, 신명수, 김인성, 신한범, 권동근, 석병진, **이동재**, 홍득조, 성재철, 홍석희  
 *한국정보보호학회 동계학술대회 (CISC-W'24)*
 
-- 부분합 기법과 FFT 기법을 활용한 6-라운드 AES에 대한 새로운 Square 공격 (New Square Attack with Partial Sums and FFT Technique on 6-round AES) \\
+- "부분합 기법과 FFT 기법을 활용한 6-라운드 AES에 대한 새로운 Square 공격 (New Square Attack with Partial Sums and FFT Technique on 6-round AES)" \\
 신한범, 김선규, 신명수, 김인성, 김선엽, 권동근, 석병진, **이동재**, 홍득조, 성재철, 홍석희  
 *한국정보보호학회 동계학술대회 (CISC-W'24)*
 
-- 축소 라운드 LEA에 대한 새로운 선형 구별자 (New Linear Distinguisher for Reduced-Round LEA) \\
+- "축소 라운드 LEA에 대한 새로운 선형 구별자 (New Linear Distinguisher for Reduced-Round LEA)" \\
 신명수, 김선규, 신한범, 김인성, 김선엽, 권동근, 석병진, **이동재**, 홍득조, 성재철, 홍석희  
 *한국정보보호학회 동계학술대회 (CISC-W'24)*
 
 - "AES 기반 AEAD 스킴의 키 커밋 공격 복잡도 계산 (Complexity Analysis of Key Committing Attacks on AES-based AEAD Scheme)" \\
-김선규, 신명수, 신한범, 김인성, 김선엽, 권동근, 석병진, 이동재, 홍득조, 성재철, 홍석희  
+김선규, 신명수, 신한범, 김인성, 김선엽, 권동근, 석병진, **이동재**, 홍득조, 성재철, 홍석희  
 *한국정보보호학회 동계학술대회 (CISC-W'24)*
 
 - Redefining Security in Shadow Cipher for IoT Nodes: New Full-Round Practical Distinguisher and the Infeasibility of Key-Recovery Attacks \\
@@ -60,21 +60,21 @@ Sunyeop Kim, Myoungsu Shin, Seonkyu Kim, Hanbeom Shin, Insung Kim, Donggeun Kwon
 
 ### 2021
 
-- Improved Ciphertext-Only Attack on GMR-1 \\
-**Dongjae Lee**, Deukjo Hong, Jaechul Sung, Seonggyeom Kim, and Seokhie Hong  
+- "Improved Ciphertext-Only Attack on GMR-1" \\
 *IEEE Access, 2021*
+**Dongjae Lee**, Deukjo Hong, Jaechul Sung, Seonggyeom Kim, and Seokhie Hong  
 
 ### 2019
 
-- Real-time Cyber Threat Intelligent Analysis and Prediction Technique \\
-Changwan Lim, Youngsup Shin, **Dongjae Lee**, Sungyoung Cho, Insung Han, and Haengrok Oh  
-*KIISE Transactions on Computing Practices, 2019*
+- "실시간 사이버 위협 지능형 분석 및 예측 기술 (Real-time Cyber Threat Intelligent Analysis and Prediction Technique)" \\
+임창완, 신영섭, **이동재**, 조성영, 한인성, 오행록  
+*정보과학회 컴퓨팅의 실제 논문지, 2019*
 
 ### 2018
 
-- A study of real-time cyber threat intelligent analysis and prediction technique \\
-Changwan Lim, Youngsup Shin, **Dongjae Lee**, Sungyoung Cho, Insung Han, and Haengrok Oh  
-*Proceedings of the Korean Information Science Society Conference, 2018*
+- "실시간 사이버 위협 정보 지능형 분석 및 예측 기술 제안 (A study of real-time cyber threat intelligent analysis and prediction technique)" \\
+임창완, 신영섭, **이동재**, 조성영, 한인성, 오행록  
+*한국정보과학회 2018 한국소프트웨어종합학술대회 논문집*
 
 
 ---
