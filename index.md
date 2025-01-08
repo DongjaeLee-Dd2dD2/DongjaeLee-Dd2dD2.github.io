@@ -82,9 +82,9 @@ PIPO에 대한 차분 및 차분 중간일치 공격 (Differential and Different
 
 ## Preprint
 
-- Byte-wise Equal Property of ARADI \\
+Byte-wise Equal Property of ARADI  
+*Cryptology ePrint Archive, 2024*  
 Sunyeop Kim, Insung Kim, **Dongjae Lee**, Deukjo Hong, Jaechul Sung, and Seokhie Hong  
-*Cryptology ePrint Archive, 2024*
 
 ---
 
