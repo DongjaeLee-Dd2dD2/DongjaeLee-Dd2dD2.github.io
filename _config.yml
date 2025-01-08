@@ -3,7 +3,7 @@
 
 title: Bay Jekyll Theme
 description: Bay is a minimal Jekyll Theme.
-baseurl: "/DongjaeLee-Dd2dD2.github.io"
+baseurl: "/"
 url: "https://dongjaelee-dd2dd2.github.io"
 og_image: /assets/img/profile-pic.jpg
 google_analytics: "UA-121636368-3"
@@ -48,9 +48,11 @@ footer:
 # Build settings
 markdown: kramdown
 sass:
-    style: :compressed
+  sass_dir: _sass
+  style: :compressed
 plugins:
   - jekyll-feed
+
 
 # Excluded items
 exclude:
