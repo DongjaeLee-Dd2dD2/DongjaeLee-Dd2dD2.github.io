@@ -1,34 +1,24 @@
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+title: Researcher
+url: "https://ankitsultana.com"
+baseurl: "/researcher"
 
-# Build settings
 markdown: kramdown
-permalink: pretty
-plugins:
-  - jekyll-sitemap
-compress_html:
-  clippings: all
-  comments: all
-  startings: [html, head, body]
+#ins_logo: "./bits-logo.png"
 
-# Pages Path
-defaults:
-  - scope:
-      path: "_pages"
-    values:
-      permalink: /:basename:output_ext
+tracking_id: #
 
-include:
-  - _pages
+footer: yes
+footer_url: "https://github.com/ankitsultana"
+footer_text: "Page design by Ankit Sultana"
 
 sass:
-  sass_dir: assets/scss
-  style: compressed
+    style: compressed
+    sass_dir: _sass
 
-# Exclude from processing.
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE.text
-  - README.md
-  - SECURITY.md
+nav:
+ - name: "About"
+   link: "/researcher/"
+ - name: "Resume"
+   link: "resume.pdf"
+ - name: "Contact"
+   link: "contact"
