@@ -42,7 +42,7 @@ Symmetric Cryptology and Quantum Cryptanalysis
 *IEEE Internet of Things Journal, 2024*  
 Sunyeop Kim, Myoungsu Shin, Seonkyu Kim, Hanbeom Shin, Insung Kim, Donggeun Kwon, **Dongjae Lee**, Seonggyeom Kim, Deukjo Hong, Jaechul Sung, and Seokhie Hong  
 
-<span style="color:maroon"> Improved Quantum Rebound Attacks on Double Block Length Hashing with Round-Reduced AES-256 and ARIA-256 </span> <br>
+<span style="color:crimson"> Improved Quantum Rebound Attacks on Double Block Length Hashing with Round-Reduced AES-256 and ARIA-256 </span> <br>
 *IACR Transactions on Symmetric Cryptology, 2024*
 **Dongjae Lee** and Seokhie Hong  
 
