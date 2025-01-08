@@ -39,10 +39,10 @@ Symmetric Cryptology and Quantum Cryptanalysis
 김선규, 신명수, 신한범, 김인성, 김선엽, 권동근, 석병진, **이동재**, 홍득조, 성재철, 홍석희  
 
 <span style="color:seagreen"> Redefining Security in Shadow Cipher for IoT Nodes: New Full-Round Practical Distinguisher and the Infeasibility of Key-Recovery Attacks </span> <br>
-*IEEE Internet of Things Journal, 2024*
+*IEEE Internet of Things Journal, 2024*  
 Sunyeop Kim, Myoungsu Shin, Seonkyu Kim, Hanbeom Shin, Insung Kim, Donggeun Kwon, **Dongjae Lee**, Seonggyeom Kim, Deukjo Hong, Jaechul Sung, and Seokhie Hong  
 
-<span style="color:marron"> Improved Quantum Rebound Attacks on Double Block Length Hashing with Round-Reduced AES-256 and ARIA-256 </span> <br>
+<span style="color:maroon"> Improved Quantum Rebound Attacks on Double Block Length Hashing with Round-Reduced AES-256 and ARIA-256 </span> <br>
 *IACR Transactions on Symmetric Cryptology, 2024*
 **Dongjae Lee** and Seokhie Hong  
 
@@ -52,7 +52,7 @@ Sunyeop Kim, Myoungsu Shin, Seonkyu Kim, Hanbeom Shin, Insung Kim, Donggeun Kwon
 
 ### 2023
 
-- "PIPO에 대한 차분 및 차분 중간일치 공격 (Differential and Differential Meet-In-The-Middle Attack on PIPO)" \\
+<span style="color:firebrick">PIPO에 대한 차분 및 차분 중간일치 공격 (Differential and Differential Meet-In-The-Middle Attack on PIPO)" </span> <br>
 *한국정보보호학회 하계학술대회 (CISC-S'23)*  
 김인성, 신한범, 김선엽, 권동근, 신명수, **이동재**, 김성겸, 홍득조, 성재철, 홍석희  
 
@@ -68,7 +68,7 @@ Sunyeop Kim, Myoungsu Shin, Seonkyu Kim, Hanbeom Shin, Insung Kim, Donggeun Kwon
 
 ### 2019
 
-- "실시간 사이버 위협 지능형 분석 및 예측 기술 (Real-time Cyber Threat Intelligent Analysis and Prediction Technique)" \\
+<span style="color:darkred">실시간 사이버 위협 지능형 분석 및 예측 기술 (Real-time Cyber Threat Intelligent Analysis and Prediction Technique)</span> <br>
 임창완, 신영섭, **이동재**, 조성영, 한인성, 오행록  
 *정보과학회 컴퓨팅의 실제 논문지, 2019*
 
