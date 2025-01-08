@@ -18,25 +18,64 @@ Symmetric Cryptology and Quantum Cryptanalysis
 
 ## Publications
 
-5. Redefining Security in Shadow Cipher for IoT Nodes: New Full-Round Practical Distinguisher and the Infeasibility of Key-Recovery Attacks
-Sunyeop Kim, Myoungsu Shin, Seonkyu Kim, Hanbeom Shin, Insung Kim, Donggeun Kwon, **Dongjae Lee**, Seonggyeom Kim, Deukjo Hong, Jaechul Sung, Seokhie Hong  
-*IEEE Internet of Things Journal, Early Access*
+### 2024
 
-4. Improved Quantum Rebound Attacks on Double Block Length Hashing with Round-Reduced AES-256 and ARIA-256 \\
-**Dongjae Lee**, Seokhie Hong  
+- Byte-wise equal property of the ARADI cipher \\
+Sunyeop Kim, Seonkyu Kim, Myoungsu Shin, Insung Kim, Hanbeom Shin, Donggeun Kwon, Byoungjin Seok, **Dongjae Lee**, Deukjo Hong, Jaechul Sung, and Seokhie Hong
+*KIISC Conference on Information Security and Cryptography Winter, 2024*
+
+- New Square Attack with Partial Sums and FFT Technique on 6-round AES \\
+Hanbeom Shin, Seonkyu Kim, Myoungsu Shin, Insung Kim, Sunyeop Kim, Donggeun Kwon, Byoungjin Seok, **Dongjae Lee**, Deukjo Hong, Jaechul Sung, and Seokhie Hong
+*KIISC Conference on Information Security and Cryptography Winter, 2024*
+
+- New Linear Distinguisher for Reduced-Round LEA \\
+Myoungsu Shin, Seonkyu Kim, Hanbeom Shin, Insung Kim, Sunyeop Kim, Donggeun Kwon, Byoungjin Seok, **Dongjae Lee**, Deukjo Hong, Jaechul Sung, and Seokhie Hong
+*KIISC Conference on Information Security and Cryptography Winter, 2024*
+
+- Complexity Analysis of Key Committing Attacks on AES-based AEAD Scheme \\
+Seonkyu Kim, Myoungsu Shin, Hanbeom Shin, Insung Kim, Sunyeop Kim, Donggeun Kwon, Byoungjin Seok, **Dongjae Lee**, Deukjo Hong, Jaechul Sung, and Seokhie Hong
+*KIISC Conference on Information Security and Cryptography Winter, 2024*
+
+- Redefining Security in Shadow Cipher for IoT Nodes: New Full-Round Practical Distinguisher and the Infeasibility of Key-Recovery Attacks \\
+Sunyeop Kim, Myoungsu Shin, Seonkyu Kim, Hanbeom Shin, Insung Kim, Donggeun Kwon, **Dongjae Lee**, Seonggyeom Kim, Deukjo Hong, Jaechul Sung, and Seokhie Hong  
+*IEEE Internet of Things Journal, 2024*
+
+- Improved Quantum Rebound Attacks on Double Block Length Hashing with Round-Reduced AES-256 and ARIA-256 \\
+**Dongjae Lee** and Seokhie Hong  
 *IACR Transactions on Symmetric Cryptology, 2024*
 
-3. Accurate False-Positive Probability of Multiset-Based Demirci-Selçuk Meet-in-the-Middle Attacks \\
-**Dongjae Lee**, Deukjo Hong, Jaechul Sung, Seokhie Hong  
+- Accurate False-Positive Probability of Multiset-Based Demirci-Selçuk Meet-in-the-Middle Attacks \\
+**Dongjae Lee**, Deukjo Hong, Jaechul Sung, and Seokhie Hong  
 *IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences, 2024*
 
-2. A Practical Ciphertext-Only Attack on GMR-2 System \\
+### 2023
+
+- Differential and Differential Meet-In-The-Middle Attack on PIPO \\
+Insung Kim, Hanbum Shin, Sunyeop Kim, Seonkyu Kim, Myoungsu Shin, Donggeun Kwon, **Dongjae Lee**, Seonggyeom Kim, Deukjo Hong, Jaechul Sung, and Seokhie Hong
+*KIISC Conference on Information Security and Cryptography Summer, 2023*
+
+-  A Practical Ciphertext-Only Attack on GMR-2 System \\
 **Dongjae Lee**, Jaewoo Kim, Deukjo Hong, Jaechul Sung, Seokhie Hong  
 *IEEE Access, 2023*
 
-1. Improved Ciphertext-Only Attack on GMR-1 \\
+### 2021
+
+- Improved Ciphertext-Only Attack on GMR-1 \\
 **Dongjae Lee**, Deukjo Hong, Jaechul Sung, Seonggyeom Kim, Seokhie Hong  
 *IEEE Access, 2021*
+
+### 2019
+
+- Real-time Cyber Threat Intelligent Analysis and Prediction Technique \\
+Changwan Lim, Youngsup Shin, **Dongjae Lee**, Sungyoung Cho, Insung Han, and Haengrok Oh
+*KIISE Transactions on Computing Practices, 2019*
+
+### 2018
+
+- A study of real-time cyber threat intelligent analysis and prediction technique \\
+Changwan Lim, Youngsup Shin, **Dongjae Lee**, Sungyoung Cho, Insung Han, and Haengrok Oh
+*Proceedings of the Korean Information Science Society Conference, 2018*
+
 
 ---
 
