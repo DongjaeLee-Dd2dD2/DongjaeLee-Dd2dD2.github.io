@@ -50,7 +50,7 @@ Sunyeop Kim, Myoungsu Shin, Seonkyu Kim, Hanbeom Shin, Insung Kim, Donggeun Kwon
 
 ### 2023
 
-- PIPO에 대한 차분 및 차분 중간일치 공격 \\
+- "PIPO에 대한 차분 및 차분 중간일치 공격 (Differential and Differential Meet-In-The-Middle Attack on PIPO)." \\
 *한국정보보호학회 하계학술대회 (CISC-S'23)*  
 김인성, 신한범, 김선엽, 권동근, 신명수, 이동재, 김성겸, 홍득조, 성재철, 홍석희  
 
