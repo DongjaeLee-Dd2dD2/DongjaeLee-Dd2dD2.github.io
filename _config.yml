@@ -1,6 +1,6 @@
 title: Researcher
 url: "https://https://dongjaelee-dd2dd2.github.io"
-baseurl: "/researcher"
+baseurl: "/"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
