@@ -1,46 +1,55 @@
-<!DOCTYPE html>
-<html>
-  {% include head.html %}
-
-  <body>
-    {% include header.html %}
-
-    <div class="page-content">
-      <div class="wrapper">
-        <div class="post">
-
-          <header class="post-header">
-
-            {% if page.draft %}
-              {% include draft-banner.html %}
-            {% endif %}
-
-            <h1 class="post-title">
-            {% if page.headline_formatted_title %}
-              {{ page.headline_formatted_title | newline_to_br }}
-            {% else %}
-              {{ page.title }}
-            {% endif %}
-            </h1>
-
-            {% if page.subtitle %}<h1 class="post-subtitle">{{ page.subtitle }}</h1>{% endif %}
-            <p class="post-meta"><span class="post-date">{{ page.date | date: "%B %-d, %Y" }}
-            </span>{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
-          </header>
-
-          <article class="post-content">
-            {{ content }}
-          </article>
-
-          {% if page.draft %}
-              {% include draft-banner.html %}
-          {% endif %}
-
-      </div>
+---
+layout: default
+---
+<!-- page title -->
+<section class="page-title bg-primary position-relative">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <h1 class="text-white font-tertiary">Blogs</h1>
       </div>
     </div>
+  </div>
+  <!-- background shapes -->
+  <img src="{{ site.baseurl }}/assets/images/illustrations/page-title.png" alt="illustrations" class="bg-shape-1 w-100">
+  <img src="{{ site.baseurl }}/assets/images/illustrations/leaf-pink-round.png" alt="illustrations" class="bg-shape-2">
+  <img src="{{ site.baseurl }}/assets/images/illustrations/dots-cyan.png" alt="illustrations" class="bg-shape-3">
+  <img src="{{ site.baseurl }}/assets/images/illustrations/leaf-orange.png" alt="illustrations" class="bg-shape-4">
+  <img src="{{ site.baseurl }}/assets/images/illustrations/leaf-yellow.png" alt="illustrations" class="bg-shape-5">
+  <img src="{{ site.baseurl }}/assets/images/illustrations/dots-group-cyan.png" alt="illustrations" class="bg-shape-6">
+  <img src="{{ site.baseurl }}/assets/images/illustrations/leaf-cyan-lg.png" alt="illustrations" class="bg-shape-7">
+</section>
+<!-- /page title -->
 
-    {% include footer.html %}
-    {% include foot.html %}
-  </body>
-</html>
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+        <h3 class="font-tertiary mb-5">{{ page.title | escape }}</h3>
+        <p class="font-secondary">Published on {{ page.date | date: '%b %d, %Y' }} by <span class="text-primary">{{ page.author }}</span
+            class="text-primary"> on {% for tag in page.tags %}<span>{{ tag }} </span>{% endfor %}</p>
+        <div class="content">
+          <img src="{{page.image | relative_url }}" class="img-fluid rounded float-left mr-5 mb-4" alt="{{page.title}}">
+          {{ content }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+{% if site.data.settings.disqus-identifier %} {% include disqus-comments.html %} {% endif %}
+
+<!-- blog -->
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <h2 class="section-title">Similar Stories</h2>
+      </div>
+      {% for post in site.posts offset:0 limit:3 %}
+      {% include post.html %}
+      {% endfor %}
+    </div>
+  </div>
+</section>
+<!-- /blog -->

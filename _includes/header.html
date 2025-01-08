@@ -1,25 +1,28 @@
-<header class="site-header">
-  <div class="wrapper">
-    <a class="site-title" href="{{ "" | prepend: site.baseurl | prepend: site.url }}/">
-      <img src="{{ "/assets/img/title.png" | absolute_url }}" alt="{{ site.title }}" />
+<header class="navigation fixed-top">
+  <nav class="navbar navbar-expand-lg navbar-dark">
+    <a class="navbar-brand font-tertiary h3" href="{{ site.baseurl }}/">
+      {% if site.data.settings.logo %}
+        <img src="{{ site.data.settings.logo | absolute_url }}" alt="{{ site.data.settings.title }}">
+        {% else if %}
+        <h3 class="text-white font-tertiary">{{site.data.settings.title}}</h3>
+      {% endif %}
     </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
+      aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
 
-    <nav class="site-nav">
-      <a href="#" class="menu-icon"></a>
-
-      <div class="menu">
-        {% for page in site.header.pages %}
-          {% if page.slug and page.slug != "" and page.slug != nil %}
-            {% assign page_link = page.slug %}
-          {% else %}
-            {% assign page_link = "/" | append: page.name | downcase %}
-          {% endif %}
-          {% assign page_link = page_link | absolute_url %}
-          <a class="page-link" href="{{ page_link }}">
-            {{- page.name -}}
-          </a>
+    <div class="collapse navbar-collapse text-center" id="navigation">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item active">
+          <a class="nav-link" href="{{ site.baseurl }}/">Home</a>
+        </li>
+        {% for link in site.data.settings.menu %}
+          <li class="nav-item {{ class }}">
+            <a class="nav-link" href="{{ link.link }}">{{ link.name }}</a>
+          </li>
         {% endfor %}
-      </div>
-    </nav>
-  </div>
+      </ul>
+    </div>
+  </nav>
 </header>
