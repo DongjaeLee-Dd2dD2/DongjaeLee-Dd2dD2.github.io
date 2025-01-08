@@ -6,15 +6,19 @@ layout: default
 
 <img class="profile-picture" src="face.jpg">
 
-Hi! I am Dongjae Lee
+Hi! I am Dongjae Lee. I am assistant professor at kangwon national university.
+
+---
 
 ## Research Interest
 
 Symmetric Cryptology and Quantum Cryptanalysis
 
+---
+
 ## Publications
 
-### 6. Redefining Security in Shadow Cipher for IoT Nodes: New Full-Round Practical Distinguisher and the Infeasibility of Key-Recovery Attacks ###
+6. Redefining Security in Shadow Cipher for IoT Nodes: New Full-Round Practical Distinguisher and the Infeasibility of Key-Recovery Attacks
 Sunyeop Kim, Myoungsu Shin, Seonkyu Kim, Hanbeom Shin, Insung Kim, Donggeun Kwon, **Dongjae Lee**, Seonggyeom Kim, Deukjo Hong, Jaechul Sung, Seokhie Hong  
 *IEEE Internet of Things Journal, Early Access*
 
@@ -38,6 +42,8 @@ Sunyeop Kim, Insung Kim, **Dongjae Lee**, Deukjo Hong, Jaechul Sung, Seokhie Hon
 **Dongjae Lee**, Deukjo Hong, Jaechul Sung, Seonggyeom Kim, Seokhie Hong  
 *IEEE Access, 2021*
 
+---
+
 ## Awards
 
 Year | Award | Category
@@ -45,16 +51,3 @@ Year | Award | Category
 2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
 2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
 2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
