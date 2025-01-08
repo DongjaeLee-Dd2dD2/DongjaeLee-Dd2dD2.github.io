@@ -50,7 +50,7 @@ Sunyeop Kim, Myoungsu Shin, Seonkyu Kim, Hanbeom Shin, Insung Kim, Donggeun Kwon
 *IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences, 2024*  
 **Dongjae Lee**, Deukjo Hong, Jaechul Sung, and Seokhie Hong  
 
-### 2023
+### - 2023
 
 PIPO에 대한 차분 및 차분 중간일치 공격 (Differential and Differential Meet-In-The-Middle Attack on PIPO)  
 *한국정보보호학회 하계학술대회 (CISC-S'23)*  
@@ -60,19 +60,19 @@ PIPO에 대한 차분 및 차분 중간일치 공격 (Differential and Different
 *IEEE Access, 2023*  
 **Dongjae Lee**, Jaewoo Kim, Deukjo Hong, Jaechul Sung, and Seokhie Hong  
 
-### 2021
+### - 2021
 
 <span style="color:crimson"> Improved Ciphertext-Only Attack on GMR-1 </span>  
 *IEEE Access, 2021*
 **Dongjae Lee**, Deukjo Hong, Jaechul Sung, Seonggyeom Kim, and Seokhie Hong  
 
-### 2019
+### - 2019
 
 실시간 사이버 위협 지능형 분석 및 예측 기술 (Real-time Cyber Threat Intelligent Analysis and Prediction Technique)  
 *정보과학회 컴퓨팅의 실제 논문지, 2019*  
 임창완, 신영섭, **이동재**, 조성영, 한인성, 오행록  
 
-### 2018
+### - 2018
 
 실시간 사이버 위협 정보 지능형 분석 및 예측 기술 제안 (A study of real-time cyber threat intelligent analysis and prediction technique)  
 *한국정보과학회 2018 한국소프트웨어종합학술대회 논문집*  
