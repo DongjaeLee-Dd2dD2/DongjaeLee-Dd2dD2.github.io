@@ -18,8 +18,6 @@ Symmetric Cryptology and Quantum Cryptanalysis
 
 ## Publications
 
-### International Journals
-
 5. Redefining Security in Shadow Cipher for IoT Nodes: New Full-Round Practical Distinguisher and the Infeasibility of Key-Recovery Attacks
 Sunyeop Kim, Myoungsu Shin, Seonkyu Kim, Hanbeom Shin, Insung Kim, Donggeun Kwon, **Dongjae Lee**, Seonggyeom Kim, Deukjo Hong, Jaechul Sung, Seokhie Hong  
 *IEEE Internet of Things Journal, Early Access*
@@ -57,3 +55,10 @@ Year | Award
 2024 | 국가암호공모전 장려상
 2024 | 한국정보보호학회 동계 학술대회 우수논문상(정보보호학회장상)
 2024 | 한국정보보호학회 동계 학술대회 우수논문상(한국인터넷진흥원 원장상)
+2023 | 국가암호공모전 우수상상
+
+## Committee
+2025 ICISC Program Chair
+정보보호학회 이사 (2025.1.1.~)
+2024 ICISC Program Committee / Session Chair
+2024 한국디지털포렌식학회 하계 학술대회 Session Chair
