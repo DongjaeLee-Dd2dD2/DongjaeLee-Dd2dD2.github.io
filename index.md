@@ -30,7 +30,7 @@ Symmetric Cryptology and Quantum Cryptanalysis
 신한범, 김선규, 신명수, 김인성, 김선엽, 권동근, 석병진, **이동재**, 홍득조, 성재철, 홍석희  <br>
 
 
-- "축소 라운드 LEA에 대한 새로운 선형 구별자 (New Linear Distinguisher for Reduced-Round LEA)" \\
+<span style="color:margenta">"축소 라운드 LEA에 대한 새로운 선형 구별자 (New Linear Distinguisher for Reduced-Round LEA)" </span> <br> \\
 신명수, 김선규, 신한범, 김인성, 김선엽, 권동근, 석병진, **이동재**, 홍득조, 성재철, 홍석희  
 *한국정보보호학회 동계학술대회 (CISC-W'24)*
 
