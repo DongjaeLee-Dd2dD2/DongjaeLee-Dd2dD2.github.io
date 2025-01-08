@@ -15,7 +15,6 @@ menu:
   - { name: About, link: "/about" }
   - { name: Blog, link: "/blog" }
   - { name: Portfolio, link: "/portfolio" }
-  - { name: Contact, link: "/contact" }
 
 #-------------------------------
 # Google Analytics Section
@@ -42,7 +41,6 @@ social:
   - { icon: "ti-facebook", link: "#" }
   - { icon: "ti-instagram", link: "#" }
   - { icon: "ti-dribbble", link: "#" }
-  - { icon: "ti-twitter", link: "#" }
 
 #-------------------------------
 # About (Section and Page)
