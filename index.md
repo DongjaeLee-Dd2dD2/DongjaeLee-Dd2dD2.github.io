@@ -21,20 +21,20 @@ Symmetric Cryptology and Quantum Cryptanalysis
 ### 2024
 
 - Byte-wise equal property of the ARADI cipher \\
-Sunyeop Kim, Seonkyu Kim, Myoungsu Shin, Insung Kim, Hanbeom Shin, Donggeun Kwon, Byoungjin Seok, **Dongjae Lee**, Deukjo Hong, Jaechul Sung, and Seokhie Hong  
-*KIISC Conference on Information Security and Cryptography Winter, 2024*
+김선엽, 김선규, 신명수, 김인성, 신한범, 권동근, 석병진, **이동재**, 홍득조, 성재철, 홍석희  
+*한국정보보호학회 동계학술대회 (CISC-W'24)*
 
-- New Square Attack with Partial Sums and FFT Technique on 6-round AES \\
-Hanbeom Shin, Seonkyu Kim, Myoungsu Shin, Insung Kim, Sunyeop Kim, Donggeun Kwon, Byoungjin Seok, **Dongjae Lee**, Deukjo Hong, Jaechul Sung, and Seokhie Hong  
-*KIISC Conference on Information Security and Cryptography Winter, 2024*
+- 부분합 기법과 FFT 기법을 활용한 6-라운드 AES에 대한 새로운 Square 공격 (New Square Attack with Partial Sums and FFT Technique on 6-round AES) \\
+신한범, 김선규, 신명수, 김인성, 김선엽, 권동근, 석병진, **이동재**, 홍득조, 성재철, 홍석희  
+*한국정보보호학회 동계학술대회 (CISC-W'24)*
 
-- New Linear Distinguisher for Reduced-Round LEA \\
-Myoungsu Shin, Seonkyu Kim, Hanbeom Shin, Insung Kim, Sunyeop Kim, Donggeun Kwon, Byoungjin Seok, **Dongjae Lee**, Deukjo Hong, Jaechul Sung, and Seokhie Hong  
-*KIISC Conference on Information Security and Cryptography Winter, 2024*
+- 축소 라운드 LEA에 대한 새로운 선형 구별자 (New Linear Distinguisher for Reduced-Round LEA) \\
+신명수, 김선규, 신한범, 김인성, 김선엽, 권동근, 석병진, **이동재**, 홍득조, 성재철, 홍석희  
+*한국정보보호학회 동계학술대회 (CISC-W'24)*
 
-- Complexity Analysis of Key Committing Attacks on AES-based AEAD Scheme \\
-Seonkyu Kim, Myoungsu Shin, Hanbeom Shin, Insung Kim, Sunyeop Kim, Donggeun Kwon, Byoungjin Seok, **Dongjae Lee**, Deukjo Hong, Jaechul Sung, and Seokhie Hong  
-*KIISC Conference on Information Security and Cryptography Winter, 2024*
+- "AES 기반 AEAD 스킴의 키 커밋 공격 복잡도 계산 (Complexity Analysis of Key Committing Attacks on AES-based AEAD Scheme)" \\
+김선규, 신명수, 신한범, 김인성, 김선엽, 권동근, 석병진, 이동재, 홍득조, 성재철, 홍석희  
+*한국정보보호학회 동계학술대회 (CISC-W'24)*
 
 - Redefining Security in Shadow Cipher for IoT Nodes: New Full-Round Practical Distinguisher and the Infeasibility of Key-Recovery Attacks \\
 Sunyeop Kim, Myoungsu Shin, Seonkyu Kim, Hanbeom Shin, Insung Kim, Donggeun Kwon, **Dongjae Lee**, Seonggyeom Kim, Deukjo Hong, Jaechul Sung, and Seokhie Hong  
@@ -50,11 +50,11 @@ Sunyeop Kim, Myoungsu Shin, Seonkyu Kim, Hanbeom Shin, Insung Kim, Donggeun Kwon
 
 ### 2023
 
-- "PIPO에 대한 차분 및 차분 중간일치 공격 (Differential and Differential Meet-In-The-Middle Attack on PIPO)." \\
+- "PIPO에 대한 차분 및 차분 중간일치 공격 (Differential and Differential Meet-In-The-Middle Attack on PIPO)" \\
 *한국정보보호학회 하계학술대회 (CISC-S'23)*  
-김인성, 신한범, 김선엽, 권동근, 신명수, 이동재, 김성겸, 홍득조, 성재철, 홍석희  
+김인성, 신한범, 김선엽, 권동근, 신명수, **이동재**, 김성겸, 홍득조, 성재철, 홍석희  
 
--  A Practical Ciphertext-Only Attack on GMR-2 System \\
+- A Practical Ciphertext-Only Attack on GMR-2 System \\
 **Dongjae Lee**, Jaewoo Kim, Deukjo Hong, Jaechul Sung, and Seokhie Hong  
 *IEEE Access, 2023*
 
