@@ -21,19 +21,19 @@ Symmetric Cryptology and Quantum Cryptanalysis
 ### 2024
 
 - Byte-wise equal property of the ARADI cipher \\
-Sunyeop Kim, Seonkyu Kim, Myoungsu Shin, Insung Kim, Hanbeom Shin, Donggeun Kwon, Byoungjin Seok, **Dongjae Lee**, Deukjo Hong, Jaechul Sung, and Seokhie Hong
+Sunyeop Kim, Seonkyu Kim, Myoungsu Shin, Insung Kim, Hanbeom Shin, Donggeun Kwon, Byoungjin Seok, **Dongjae Lee**, Deukjo Hong, Jaechul Sung, and Seokhie Hong  
 *KIISC Conference on Information Security and Cryptography Winter, 2024*
 
 - New Square Attack with Partial Sums and FFT Technique on 6-round AES \\
-Hanbeom Shin, Seonkyu Kim, Myoungsu Shin, Insung Kim, Sunyeop Kim, Donggeun Kwon, Byoungjin Seok, **Dongjae Lee**, Deukjo Hong, Jaechul Sung, and Seokhie Hong
+Hanbeom Shin, Seonkyu Kim, Myoungsu Shin, Insung Kim, Sunyeop Kim, Donggeun Kwon, Byoungjin Seok, **Dongjae Lee**, Deukjo Hong, Jaechul Sung, and Seokhie Hong  
 *KIISC Conference on Information Security and Cryptography Winter, 2024*
 
 - New Linear Distinguisher for Reduced-Round LEA \\
-Myoungsu Shin, Seonkyu Kim, Hanbeom Shin, Insung Kim, Sunyeop Kim, Donggeun Kwon, Byoungjin Seok, **Dongjae Lee**, Deukjo Hong, Jaechul Sung, and Seokhie Hong
+Myoungsu Shin, Seonkyu Kim, Hanbeom Shin, Insung Kim, Sunyeop Kim, Donggeun Kwon, Byoungjin Seok, **Dongjae Lee**, Deukjo Hong, Jaechul Sung, and Seokhie Hong  
 *KIISC Conference on Information Security and Cryptography Winter, 2024*
 
 - Complexity Analysis of Key Committing Attacks on AES-based AEAD Scheme \\
-Seonkyu Kim, Myoungsu Shin, Hanbeom Shin, Insung Kim, Sunyeop Kim, Donggeun Kwon, Byoungjin Seok, **Dongjae Lee**, Deukjo Hong, Jaechul Sung, and Seokhie Hong
+Seonkyu Kim, Myoungsu Shin, Hanbeom Shin, Insung Kim, Sunyeop Kim, Donggeun Kwon, Byoungjin Seok, **Dongjae Lee**, Deukjo Hong, Jaechul Sung, and Seokhie Hong  
 *KIISC Conference on Information Security and Cryptography Winter, 2024*
 
 - Redefining Security in Shadow Cipher for IoT Nodes: New Full-Round Practical Distinguisher and the Infeasibility of Key-Recovery Attacks \\
@@ -50,30 +50,30 @@ Sunyeop Kim, Myoungsu Shin, Seonkyu Kim, Hanbeom Shin, Insung Kim, Donggeun Kwon
 
 ### 2023
 
-- Differential and Differential Meet-In-The-Middle Attack on PIPO \\
-Insung Kim, Hanbum Shin, Sunyeop Kim, Seonkyu Kim, Myoungsu Shin, Donggeun Kwon, **Dongjae Lee**, Seonggyeom Kim, Deukjo Hong, Jaechul Sung, and Seokhie Hong
-*KIISC Conference on Information Security and Cryptography Summer, 2023*
+- PIPO에 대한 차분 및 차분 중간일치 공격 \\
+*한국정보보호학회 하계학술대회 (CISC-S'23)*  
+김인성, 신한범, 김선엽, 권동근, 신명수, 이동재, 김성겸, 홍득조, 성재철, 홍석희  
 
 -  A Practical Ciphertext-Only Attack on GMR-2 System \\
-**Dongjae Lee**, Jaewoo Kim, Deukjo Hong, Jaechul Sung, Seokhie Hong  
+**Dongjae Lee**, Jaewoo Kim, Deukjo Hong, Jaechul Sung, and Seokhie Hong  
 *IEEE Access, 2023*
 
 ### 2021
 
 - Improved Ciphertext-Only Attack on GMR-1 \\
-**Dongjae Lee**, Deukjo Hong, Jaechul Sung, Seonggyeom Kim, Seokhie Hong  
+**Dongjae Lee**, Deukjo Hong, Jaechul Sung, Seonggyeom Kim, and Seokhie Hong  
 *IEEE Access, 2021*
 
 ### 2019
 
 - Real-time Cyber Threat Intelligent Analysis and Prediction Technique \\
-Changwan Lim, Youngsup Shin, **Dongjae Lee**, Sungyoung Cho, Insung Han, and Haengrok Oh
+Changwan Lim, Youngsup Shin, **Dongjae Lee**, Sungyoung Cho, Insung Han, and Haengrok Oh  
 *KIISE Transactions on Computing Practices, 2019*
 
 ### 2018
 
 - A study of real-time cyber threat intelligent analysis and prediction technique \\
-Changwan Lim, Youngsup Shin, **Dongjae Lee**, Sungyoung Cho, Insung Han, and Haengrok Oh
+Changwan Lim, Youngsup Shin, **Dongjae Lee**, Sungyoung Cho, Insung Han, and Haengrok Oh  
 *Proceedings of the Korean Information Science Society Conference, 2018*
 
 
@@ -82,7 +82,7 @@ Changwan Lim, Youngsup Shin, **Dongjae Lee**, Sungyoung Cho, Insung Han, and Hae
 ## Preprint
 
 - Byte-wise Equal Property of ARADI \\
-Sunyeop Kim, Insung Kim, **Dongjae Lee**, Deukjo Hong, Jaechul Sung, Seokhie Hong  
+Sunyeop Kim, Insung Kim, **Dongjae Lee**, Deukjo Hong, Jaechul Sung, and Seokhie Hong  
 *Cryptology ePrint Archive, 2024*
 
 ---
