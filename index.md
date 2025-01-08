@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="face.jpg">
 
-Hi! I am Dongjae Lee. I am assistant professor at kangwon national university.
+Hi! I am Dongjae Lee. I am an assistant professor at Kangwon National University.
 
 ---
 
