@@ -20,35 +20,35 @@ Symmetric Cryptology and Quantum Cryptanalysis
 
 ### 2024
 
-<span style="color:tomato">"ARADI 암호의 바이트 동일 특성 (Byte-wise equal property of the ARADI cipher)"</span> <br>
+<span style="color:tomato">ARADI 암호의 바이트 동일 특성 (Byte-wise equal property of the ARADI cipher)</span> <br>
 *한국정보보호학회 동계학술대회 (CISC-W'24)* </br>
 김선엽, 김선규, 신명수, 김인성, 신한범, 권동근, 석병진, **이동재**, 홍득조, 성재철, 홍석희  
 
 
-<span style="color:indianred">"부분합 기법과 FFT 기법을 활용한 6-라운드 AES에 대한 새로운 Square 공격 (New Square Attack with Partial Sums and FFT Technique on 6-round AES)" </span> <br>
+<span style="color:indianred">부분합 기법과 FFT 기법을 활용한 6-라운드 AES에 대한 새로운 Square 공격 (New Square Attack with Partial Sums and FFT Technique on 6-round AES) </span> <br>
 *한국정보보호학회 동계학술대회 (CISC-W'24)* </br>
 신한범, 김선규, 신명수, 김인성, 김선엽, 권동근, 석병진, **이동재**, 홍득조, 성재철, 홍석희  <br>
 
 
-<span style="color:magenta">"축소 라운드 LEA에 대한 새로운 선형 구별자 (New Linear Distinguisher for Reduced-Round LEA)" </span> <br>
+<span style="color:magenta">축소 라운드 LEA에 대한 새로운 선형 구별자 (New Linear Distinguisher for Reduced-Round LEA) </span> <br>
+*한국정보보호학회 동계학술대회 (CISC-W'24)*
 신명수, 김선규, 신한범, 김인성, 김선엽, 권동근, 석병진, **이동재**, 홍득조, 성재철, 홍석희  
-*한국정보보호학회 동계학술대회 (CISC-W'24)*
 
-<span style="color:red"> "AES 기반 AEAD 스킴의 키 커밋 공격 복잡도 계산 (Complexity Analysis of Key Committing Attacks on AES-based AEAD Scheme)" </span> <br>
+<span style="color:red"> AES 기반 AEAD 스킴의 키 커밋 공격 복잡도 계산 (Complexity Analysis of Key Committing Attacks on AES-based AEAD Scheme) </span> <br>
+*한국정보보호학회 동계학술대회 (CISC-W'24)*
 김선규, 신명수, 신한범, 김인성, 김선엽, 권동근, 석병진, **이동재**, 홍득조, 성재철, 홍석희  
-*한국정보보호학회 동계학술대회 (CISC-W'24)*
 
-<span style="color:seagreen"> "Redefining Security in Shadow Cipher for IoT Nodes: New Full-Round Practical Distinguisher and the Infeasibility of Key-Recovery Attacks </span> <br>
-Sunyeop Kim, Myoungsu Shin, Seonkyu Kim, Hanbeom Shin, Insung Kim, Donggeun Kwon, **Dongjae Lee**, Seonggyeom Kim, Deukjo Hong, Jaechul Sung, and Seokhie Hong  
+<span style="color:seagreen"> Redefining Security in Shadow Cipher for IoT Nodes: New Full-Round Practical Distinguisher and the Infeasibility of Key-Recovery Attacks </span> <br>
 *IEEE Internet of Things Journal, 2024*
+Sunyeop Kim, Myoungsu Shin, Seonkyu Kim, Hanbeom Shin, Insung Kim, Donggeun Kwon, **Dongjae Lee**, Seonggyeom Kim, Deukjo Hong, Jaechul Sung, and Seokhie Hong  
 
-<span style="color:marron"> "Improved Quantum Rebound Attacks on Double Block Length Hashing with Round-Reduced AES-256 and ARIA-256 </span> <br>
-**Dongjae Lee** and Seokhie Hong  
+<span style="color:marron"> Improved Quantum Rebound Attacks on Double Block Length Hashing with Round-Reduced AES-256 and ARIA-256 </span> <br>
 *IACR Transactions on Symmetric Cryptology, 2024*
+**Dongjae Lee** and Seokhie Hong  
 
-<span style="color:blue"> "Accurate False-Positive Probability of Multiset-Based Demirci-Selçuk Meet-in-the-Middle Attacks \\
-**Dongjae Lee**, Deukjo Hong, Jaechul Sung, and Seokhie Hong  
+<span style="color:blue"> Accurate False-Positive Probability of Multiset-Based Demirci-Selçuk Meet-in-the-Middle Attacks </span> <br>
 *IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences, 2024*
+**Dongjae Lee**, Deukjo Hong, Jaechul Sung, and Seokhie Hong  
 
 ### 2023
 
