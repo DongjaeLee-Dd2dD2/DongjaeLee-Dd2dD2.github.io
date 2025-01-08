@@ -1,7 +1,7 @@
 ---
 layout: work
 title: Publications
-slug: /work
+slug: /publications
 ---
 
 ## **Redefining Security in Shadow Cipher for IoT Nodes: New Full-Round Practical Distinguisher and the Infeasibility of Key-Recovery Attacks**
