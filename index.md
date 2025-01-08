@@ -18,7 +18,7 @@ Symmetric Cryptology and Quantum Cryptanalysis
 
 ## Publications
 
-### 2024
+### - 2024
 
 ARADI 암호의 바이트 동일 특성 (Byte-wise equal property of the ARADI cipher)  
 *한국정보보호학회 동계학술대회 (CISC-W'24)*  
