@@ -6,18 +6,42 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
-
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+Hi! I am Dongjae Lee
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+Symmetric Cryptology and Quantum Cryptanalysis
 
 ## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+### **Redefining Security in Shadow Cipher for IoT Nodes: New Full-Round Practical Distinguisher and the Infeasibility of Key-Recovery Attacks**
+Sunyeop Kim, Myoungsu Shin, Seonkyu Kim, Hanbeom Shin, Insung Kim, Donggeun Kwon, **Dongjae Lee**, Seonggyeom Kim, Deukjo Hong, Jaechul Sung, Seokhie Hong  
+*IEEE Internet of Things Journal, Early Access*  
+<br />
+
+### **Improved Quantum Rebound Attacks on Double Block Length Hashing with Round-Reduced AES-256 and ARIA-256**
+**Dongjae Lee**, Seokhie Hong  
+*IACR Transactions on Symmetric Cryptology, 2024*  
+<br /> 
+
+### **Accurate False-Positive Probability of Multiset-Based Demirci-Selçuk Meet-in-the-Middle Attacks**
+**Dongjae Lee**, Deukjo Hong, Jaechul Sung, Seokhie Hong  
+*IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences, 2024*  
+<br />
+
+### **Byte-wise Equal Property of ARADI**
+Sunyeop Kim, Insung Kim, **Dongjae Lee**, Deukjo Hong, Jaechul Sung, Seokhie Hong  
+*Cryptology ePrint Archive, 2024*  
+<br />
+
+### **A Practical Ciphertext-Only Attack on GMR-2 System**
+**Dongjae Lee**, Jaewoo Kim, Deukjo Hong, Jaechul Sung, Seokhie Hong  
+*IEEE Access, 2023*  
+<br />
+
+### **Improved Ciphertext-Only Attack on GMR-1**
+**Dongjae Lee**, Deukjo Hong, Jaechul Sung, Seonggyeom Kim, Seokhie Hong  
+*IEEE Access, 2021*  
 
 ## Typography
 
