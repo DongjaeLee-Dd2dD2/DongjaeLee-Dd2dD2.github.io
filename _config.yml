@@ -1,4 +1,4 @@
-title: Researcher
+title: Dongjae Lee
 url: "https://https://dongjaelee-dd2dd2.github.io"
 baseurl: "/"
 
@@ -16,9 +16,7 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "/researcher/"
+ - name: "Home"
+   link: "/"
  - name: "Resume"
    link: "resume.pdf"
- - name: "Contact"
-   link: "contact"

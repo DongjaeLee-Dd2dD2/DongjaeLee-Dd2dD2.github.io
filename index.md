@@ -34,12 +34,12 @@ Sunyeop Kim, Insung Kim, **Dongjae Lee**, Deukjo Hong, Jaechul Sung, Seokhie Hon
 *Cryptology ePrint Archive, 2024*  
 <br />
 
-### **A Practical Ciphertext-Only Attack on GMR-2 System**
+2. A Practical Ciphertext-Only Attack on GMR-2 System
 **Dongjae Lee**, Jaewoo Kim, Deukjo Hong, Jaechul Sung, Seokhie Hong  
 *IEEE Access, 2023*  
 <br />
 
-### **Improved Ciphertext-Only Attack on GMR-1**
+1. Improved Ciphertext-Only Attack on GMR-1
 **Dongjae Lee**, Deukjo Hong, Jaechul Sung, Seonggyeom Kim, Seokhie Hong  
 *IEEE Access, 2021*  
 
