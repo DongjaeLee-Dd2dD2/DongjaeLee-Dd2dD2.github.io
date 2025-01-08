@@ -38,7 +38,7 @@ Symmetric Cryptology and Quantum Cryptanalysis
 김선규, 신명수, 신한범, 김인성, 김선엽, 권동근, 석병진, **이동재**, 홍득조, 성재철, 홍석희  
 *한국정보보호학회 동계학술대회 (CISC-W'24)*
 
-- Redefining Security in Shadow Cipher for IoT Nodes: New Full-Round Practical Distinguisher and the Infeasibility of Key-Recovery Attacks \\
+<span style="color:seagreen"> Redefining Security in Shadow Cipher for IoT Nodes: New Full-Round Practical Distinguisher and the Infeasibility of Key-Recovery Attacks </span> <br>
 Sunyeop Kim, Myoungsu Shin, Seonkyu Kim, Hanbeom Shin, Insung Kim, Donggeun Kwon, **Dongjae Lee**, Seonggyeom Kim, Deukjo Hong, Jaechul Sung, and Seokhie Hong  
 *IEEE Internet of Things Journal, 2024*
 
