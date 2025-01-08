@@ -63,7 +63,7 @@ PIPO에 대한 차분 및 차분 중간일치 공격 (Differential and Different
 ### - 2021
 
 <span style="color:crimson"> Improved Ciphertext-Only Attack on GMR-1 </span>  
-*IEEE Access, 2021*
+*IEEE Access, 2021*  
 **Dongjae Lee**, Deukjo Hong, Jaechul Sung, Seonggyeom Kim, and Seokhie Hong  
 
 ### - 2019
