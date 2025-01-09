@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## About Me
+## Dongjae Lee About Me
 
 <img class="profile-picture" src="face.jpg">
 
