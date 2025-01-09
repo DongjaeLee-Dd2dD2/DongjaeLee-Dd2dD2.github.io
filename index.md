@@ -1,8 +1,9 @@
 ---
 layout: default
+title: Dongjae Lee
 ---
 
-## Dongjae Lee About Me
+## About Me
 
 <img class="profile-picture" src="face.jpg">
 
