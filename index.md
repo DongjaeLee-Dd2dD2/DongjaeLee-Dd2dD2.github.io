@@ -21,7 +21,7 @@ Symmetric Cryptology and Quantum Cryptanalysis
 
 ### - 2025
 <span style="color:crimson"> Best interleave size of GIFT-128 on 64-bit ARM processor </span>  
-*Journal of Cryptographic Engineering, 2025*  
+*Journal of Cryptographic Engineering 2025*  
 Myeonghoon Lee, Hanbeom Shin, Myoungsu Shin, **Dongjae Lee**, Seog Chung Seo, Seokhie Hong  
 
 ### - 2024
@@ -45,15 +45,15 @@ AES 기반 AEAD 스킴의 키 커밋 공격 복잡도 계산 (Complexity Analysi
 김선규, 신명수, 신한범, 김인성, 김선엽, 권동근, 석병진, **이동재**, 홍득조, 성재철, 홍석희  
 
 <span style="color:crimson"> Redefining Security in Shadow Cipher for IoT Nodes: New Full-Round Practical Distinguisher and the Infeasibility of Key-Recovery Attacks </span>  
-*IEEE Internet of Things Journal, 2024*  
+*IEEE Internet of Things Journal 2024*  
 Sunyeop Kim, Myoungsu Shin, Seonkyu Kim, Hanbeom Shin, Insung Kim, Donggeun Kwon, **Dongjae Lee**, Seonggyeom Kim, Deukjo Hong, Jaechul Sung, and Seokhie Hong  
 
 <span style="color:crimson"> Improved Quantum Rebound Attacks on Double Block Length Hashing with Round-Reduced AES-256 and ARIA-256 </span>  
-*IACR Transactions on Symmetric Cryptology, 2024*  
+*IACR Transactions on Symmetric Cryptology 2024 / Fast Software Encryption 2025*  
 **Dongjae Lee** and Seokhie Hong  
 
 <span style="color:crimson"> Accurate False-Positive Probability of Multiset-Based Demirci-Selçuk Meet-in-the-Middle Attacks </span>  
-*IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences, 2024*  
+*IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences 2024*  
 **Dongjae Lee**, Deukjo Hong, Jaechul Sung, and Seokhie Hong  
 
 ### - 2023
@@ -63,19 +63,19 @@ PIPO에 대한 차분 및 차분 중간일치 공격 (Differential and Different
 김인성, 신한범, 김선엽, 권동근, 신명수, **이동재**, 김성겸, 홍득조, 성재철, 홍석희  
 
 <span style="color:crimson"> A Practical Ciphertext-Only Attack on GMR-2 System </span>  
-*IEEE Access, 2023*  
+*IEEE Access 2023*  
 **Dongjae Lee**, Jaewoo Kim, Deukjo Hong, Jaechul Sung, and Seokhie Hong  
 
 ### - 2021
 
 <span style="color:crimson"> Improved Ciphertext-Only Attack on GMR-1 </span>  
-*IEEE Access, 2021*  
+*IEEE Access 2021*  
 **Dongjae Lee**, Deukjo Hong, Jaechul Sung, Seonggyeom Kim, and Seokhie Hong  
 
 ### - 2019
 
 실시간 사이버 위협 지능형 분석 및 예측 기술 (Real-time Cyber Threat Intelligent Analysis and Prediction Technique)  
-*정보과학회 컴퓨팅의 실제 논문지, 2019*  
+*정보과학회 컴퓨팅의 실제 논문지 2019*  
 임창완, 신영섭, **이동재**, 조성영, 한인성, 오행록  
 
 ### - 2018
