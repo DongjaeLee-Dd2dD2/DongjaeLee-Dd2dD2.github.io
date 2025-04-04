@@ -20,7 +20,7 @@ Symmetric Cryptology and Quantum Cryptanalysis
 ## Publications
 
 ### - 2025
-Best interleave size of GIFT-128 on 64-bit ARM processor  
+<span style="color:crimson"> Best interleave size of GIFT-128 on 64-bit ARM processor </span>  
 *Journal of Cryptographic Engineering, 2025*  
 Myeonghoon Lee, Hanbeom Shin, Myoungsu Shin, **Dongjae Lee**, Seog Chung Seo, Seokhie Hong  
 
