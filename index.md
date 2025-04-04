@@ -19,6 +19,11 @@ Symmetric Cryptology and Quantum Cryptanalysis
 
 ## Publications
 
+### - 2025
+Best interleave size of GIFT-128 on 64-bit ARM processor
+*Journal of Cryptographic Engineering, 2025*
+Myeonghoon Lee, Hanbeom Shin, Myoungsu Shin, **Dongjae Lee**, Seog Chung Seo, Seokhie Hong
+
 ### - 2024
 
 ARADI 암호의 바이트 동일 특성 (Byte-wise equal property of the ARADI cipher)  
@@ -86,6 +91,10 @@ PIPO에 대한 차분 및 차분 중간일치 공격 (Differential and Different
 Byte-wise Equal Property of ARADI  
 *Cryptology ePrint Archive, 2024*  
 Sunyeop Kim, Insung Kim, **Dongjae Lee**, Deukjo Hong, Jaechul Sung, and Seokhie Hong  
+
+New Exchanged Boomerang Distinguishers for 5-Round AES
+*Cryptology ePrint Archive, 2025*  
+Hanbeom Shin, Seonkyu Kim, **Dongjae Lee**, Deukjo Hong, Jaechul Sung, Seokhie Hong
 
 ---
 
