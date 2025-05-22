@@ -20,6 +20,11 @@ Symmetric Cryptology and Quantum Cryptanalysis
 ## Publications
 
 ### - 2025
+
+<span style="color:crimson"> SAECHAM: Secure and Efficient Lightweight Block Cipher CHAM Variant </span>  
+*IEEE Internet of Things Journal 2025*  
+Myoungsu Shin, Hanbeom Shin, Insung Kim, Sunyeop Kim, **Dongjae Lee**, Deukjo Hong, Jaechul Sung, Seokhie Hong  
+
 <span style="color:crimson"> Best interleave size of GIFT-128 on 64-bit ARM processor </span>  
 *Journal of Cryptographic Engineering 2025*  
 Myeonghoon Lee, Hanbeom Shin, Myoungsu Shin, **Dongjae Lee**, Seog Chung Seo, Seokhie Hong  
@@ -30,11 +35,9 @@ ARADI 암호의 바이트 동일 특성 (Byte-wise equal property of the ARADI c
 *한국정보보호학회 동계학술대회 (CISC-W'24)*  
 김선엽, 김선규, 신명수, 김인성, 신한범, 권동근, 석병진, **이동재**, 홍득조, 성재철, 홍석희  
 
-
 부분합 기법과 FFT 기법을 활용한 6-라운드 AES에 대한 새로운 Square 공격 (New Square Attack with Partial Sums and FFT Technique on 6-round AES)  
 *한국정보보호학회 동계학술대회 (CISC-W'24)*  
 신한범, 김선규, 신명수, 김인성, 김선엽, 권동근, 석병진, **이동재**, 홍득조, 성재철, 홍석희  <br>
-
 
 축소 라운드 LEA에 대한 새로운 선형 구별자 (New Linear Distinguisher for Reduced-Round LEA)  
 *한국정보보호학회 동계학술대회 (CISC-W'24)*  
