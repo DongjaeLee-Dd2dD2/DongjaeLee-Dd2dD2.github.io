@@ -21,6 +21,34 @@ Symmetric Cryptology and Quantum Cryptanalysis
 
 ### - 2025
 
+웹 CMS WordPress 취약점 동향 분석 및 대응 방안
+*한국정보보호학회 하계학술대회 (CISC-S'25)*  
+이현우, **이동재**  
+
+양자내성암호에 대한 QAOA 기반 분석 연구  
+*한국정보보호학회 하계학술대회 (CISC-S'25)*  
+강태훈, 전찬호, 허동회, 석병진, **이동재**, 홍석희  
+
+중소기업 환경에 적합한 비용 효율적 제로 트러스트 보안 모델 개발 및 적용 방안  
+*한국정보보호학회 하계학술대회 (CISC-S'25)*  
+안효빈, 김범준, **이동재**
+
+LLM 기반 코드 난독화 해석 위협에 대한 암호화 기법의 대응 가능성 분석 (Analyzing the Effectiveness of Encryption in LLM-Based Code Deobfuscation)  
+*한국정보보호학회 하계학술대회 (CISC-S'25)*  
+조준환, **이동재**
+
+모델 컨텍스트 프로토콜(MCP) 기술 동향 및 보안 위협 분석 (Model Context Protocol(MCP) Technology Trends And Security Threats Analysis)  
+*한국정보보호학회 하계학술대회 (CISC-S'25)*  
+김이든, **이동재**
+
+비정형 음성 데이터의 자동 가명처리를 위한 웹 서비스 구현 (Implementation of a Web Service for Automatic Pesudonymization of Unstructured Voice Data)  
+*한국정보처리학회 ASK 2025*  
+김혁진, **이동재**  
+
+효율적인 질의 처리를 위한 BitNet-MCP 하이브리드 시스템 (A BitNet-MCP Hybrid System for Efficient Query Processing)  
+*한국정보처리학회 ASK 2025*  
+김이든, 안효빈, **이동재**  
+
 <span style="color:crimson"> SAECHAM: Secure and Efficient Lightweight Block Cipher CHAM Variant </span>  
 *IEEE Internet of Things Journal 2025*  
 Myoungsu Shin, Hanbeom Shin, Insung Kim, Sunyeop Kim, **Dongjae Lee**, Deukjo Hong, Jaechul Sung, Seokhie Hong  
