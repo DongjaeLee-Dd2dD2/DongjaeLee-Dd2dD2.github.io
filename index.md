@@ -21,7 +21,7 @@ Symmetric Cryptology and Quantum Cryptanalysis
 
 ### - 2025
 
-웹 CMS WordPress 취약점 동향 분석 및 대응 방안
+웹 CMS WordPress 취약점 동향 분석 및 대응 방안  
 *한국정보보호학회 하계학술대회 (CISC-S'25)*  
 이현우, **이동재**  
 
